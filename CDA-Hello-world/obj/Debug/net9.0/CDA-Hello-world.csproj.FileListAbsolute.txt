@@ -1,0 +1,14 @@
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/bin/Debug/net9.0/CDA-Hello-world
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/bin/Debug/net9.0/CDA-Hello-world.deps.json
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/bin/Debug/net9.0/CDA-Hello-world.runtimeconfig.json
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/bin/Debug/net9.0/CDA-Hello-world.dll
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/bin/Debug/net9.0/CDA-Hello-world.pdb
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/obj/Debug/net9.0/CDA-Hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/obj/Debug/net9.0/CDA-Hello-world.AssemblyInfoInputs.cache
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/obj/Debug/net9.0/CDA-Hello-world.AssemblyInfo.cs
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/obj/Debug/net9.0/CDA-Hello-world.csproj.CoreCompileInputs.cache
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/obj/Debug/net9.0/CDA-Hello-world.dll
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/obj/Debug/net9.0/refint/CDA-Hello-world.dll
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/obj/Debug/net9.0/CDA-Hello-world.pdb
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/obj/Debug/net9.0/CDA-Hello-world.genruntimeconfig.cache
+/Users/gauthierseyzeriat/Repos/CDA-Hello-world/CDA-Hello-world/obj/Debug/net9.0/ref/CDA-Hello-world.dll
