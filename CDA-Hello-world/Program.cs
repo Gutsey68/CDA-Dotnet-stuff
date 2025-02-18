@@ -13,7 +13,10 @@ namespace CDA_Hello_world
             //Exercices.IsArmstrongNumber(153);
             //Exercices.VowelCounter("Hello World ? How Are You ?");
             //Exercices.LongestWord("Hello, World ? How Are You ?");
-            Exercices.StringCompressor("zeeeeeffffeddssslllkf");
+            //Exercices.StringCompressor("zeeeeeffffeddssslllkf");
+
+            ;
+            Collections.BubbleSorter([4, 543, 7, 99, 13]);
         }
     }
 }

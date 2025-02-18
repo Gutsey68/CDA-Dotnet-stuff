@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CDA-Hello-world")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9ed3fd33bd37b2d30cac786af34e0d9e7c6ad36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+267d1db91015257ae09bbd94856aa9c8a4dd2354")]
 [assembly: System.Reflection.AssemblyProductAttribute("CDA-Hello-world")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CDA-Hello-world")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CDA-Hello-world/1.0.0": {
+        "runtime": {
+          "CDA-Hello-world.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CDA-Hello-world/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
